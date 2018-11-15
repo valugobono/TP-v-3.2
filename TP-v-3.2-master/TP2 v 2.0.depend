@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1541467064 source:c:\users\valeria\desktop\tp2 -v2.0\tp2 v 2.0\cargainicial.c
+	"libreria.h"
+
+1541542792 c:\users\valeria\desktop\tp2 -v2.0\tp2 v 2.0\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	<conio.h>
+	<windows.h>
+
+1541542129 source:c:\users\valeria\desktop\tp2 -v2.0\tp2 v 2.0\main.c
+	"libreria.h"
+
+1541543301 source:c:\users\valeria\desktop\tp2 -v2.0\tp2 v 2.0\menues.c
+	"libreria.h"
+
+1541540983 source:c:\users\valeria\desktop\tp2 -v2.0\tp2 v 2.0\peliculas.c
+	"libreria.h"
+
+1541536139 source:c:\users\valeria\desktop\tp2 -v2.0\tp2 v 2.0\pelisxuser.c
+	"libreria.h"
+
+1541542792 source:c:\users\valeria\desktop\tp2 -v2.0\tp2 v 2.0\usuarios.c
+	"libreria.h"
+
+1541525534 source:c:\users\nmz\desktop\tp2 v 2.0\cargainicial.c
+	"libreria.h"
+
+1541626118 c:\users\nmz\desktop\tp2 v 2.0\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	<conio.h>
+	<windows.h>
+
+1541626136 source:c:\users\nmz\desktop\tp2 v 2.0\main.c
+	"libreria.h"
+
+1541626056 source:c:\users\nmz\desktop\tp2 v 2.0\menues.c
+	"libreria.h"
+
+1541626118 source:c:\users\nmz\desktop\tp2 v 2.0\peliculas.c
+	"libreria.h"
+
+1541555507 source:c:\users\nmz\desktop\tp2 v 2.0\pelisxuser.c
+	"libreria.h"
+
+1541525538 source:c:\users\nmz\desktop\tp2 v 2.0\usuarios.c
+	"libreria.h"
+
+1541525534 source:c:\users\alumno\desktop\tp\cargainicial.c
+	"libreria.h"
+
+1541638681 c:\users\alumno\desktop\tp\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	<conio.h>
+	<windows.h>
+
+1541637691 source:c:\users\alumno\desktop\tp\main.c
+	"libreria.h"
+
+1541637789 source:c:\users\alumno\desktop\tp\menues.c
+	"libreria.h"
+
+1541626174 source:c:\users\alumno\desktop\tp\peliculas.c
+	"libreria.h"
+
+1541633436 source:c:\users\alumno\desktop\tp\pelisxuser.c
+	"libreria.h"
+
+1541633502 source:c:\users\alumno\desktop\tp\usuarios.c
+	"libreria.h"
+
+1541722004 source:c:\users\nmz\desktop\tp\cargainicial.c
+	"libreria.h"
+
+1541889474 c:\users\nmz\desktop\tp\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	<conio.h>
+	<windows.h>
+
+1541637692 source:c:\users\nmz\desktop\tp\main.c
+	"libreria.h"
+
+1541887984 source:c:\users\nmz\desktop\tp\menues.c
+	"libreria.h"
+
+1541889418 source:c:\users\nmz\desktop\tp\peliculas.c
+	"libreria.h"
+
+1541891053 source:c:\users\nmz\desktop\tp\pelisxuser.c
+	"libreria.h"
+
+1541889474 source:c:\users\nmz\desktop\tp\usuarios.c
+	"libreria.h"
+
+1541722004 source:c:\users\nmz\desktop\tp 2.2\cargainicial.c
+	"libreria.h"
+
+1541991956 c:\users\nmz\desktop\tp 2.2\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	<conio.h>
+	<windows.h>
+
+1541637692 source:c:\users\nmz\desktop\tp 2.2\main.c
+	"libreria.h"
+
+1541891105 source:c:\users\nmz\desktop\tp 2.2\menues.c
+	"libreria.h"
+
+1541891053 source:c:\users\nmz\desktop\tp 2.2\pelisxuser.c
+	"libreria.h"
+
+1541889474 source:c:\users\nmz\desktop\tp 2.2\usuarios.c
+	"libreria.h"
+
+1541990205 source:c:\users\nmz\desktop\tp 2.2\peliculas.c
+	"libreria.h"
+
+1541722004 source:c:\users\nmz\desktop\tp 2.3\cargainicial.c
+	"libreria.h"
+
+1542060449 c:\users\nmz\desktop\tp 2.3\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	<conio.h>
+	<windows.h>
+
+1541637692 source:c:\users\nmz\desktop\tp 2.3\main.c
+	"libreria.h"
+
+1542060287 source:c:\users\nmz\desktop\tp 2.3\menues.c
+	"libreria.h"
+
+1542060037 source:c:\users\nmz\desktop\tp 2.3\pelisxuser.c
+	"libreria.h"
+
+1542060037 source:c:\users\nmz\desktop\tp 2.3\usuarios.c
+	"libreria.h"
+
+1542060037 source:c:\users\nmz\desktop\tp 2.3\peliculas.c
+	"libreria.h"
+
+1541722006 source:c:\users\valeria\desktop\tp 3.0 posta\cargainicial.c
+	"libreria.h"
+
+1542087356 c:\users\valeria\desktop\tp 3.0 posta\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	<conio.h>
+	<windows.h>
+
+1541637692 source:c:\users\valeria\desktop\tp 3.0 posta\main.c
+	"libreria.h"
+
+1542091865 source:c:\users\valeria\desktop\tp 3.0 posta\menues.c
+	"libreria.h"
+
+1542091865 source:c:\users\valeria\desktop\tp 3.0 posta\peliculas.c
+	"libreria.h"
+
+1542088073 source:c:\users\valeria\desktop\tp 3.0 posta\pelisxuser.c
+	"libreria.h"
+
+1542091900 source:c:\users\valeria\desktop\tp 3.0 posta\usuarios.c
+	"libreria.h"
+
+1542092331 source:c:\users\arte1\downloads\fuentes viejas\tp-v-3.2-master\cargainicial.c
+	"libreria.h"
+
+1542092331 c:\users\arte1\downloads\fuentes viejas\tp-v-3.2-master\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	<conio.h>
+	<windows.h>
+
+1542092331 source:c:\users\arte1\downloads\fuentes viejas\tp-v-3.2-master\main.c
+	"libreria.h"
+
+1542092331 source:c:\users\arte1\downloads\fuentes viejas\tp-v-3.2-master\menues.c
+	"libreria.h"
+
+1542113017 source:c:\users\arte1\downloads\fuentes viejas\tp-v-3.2-master\peliculas.c
+	"libreria.h"
+
+1542139089 source:c:\users\arte1\downloads\fuentes viejas\tp-v-3.2-master\usuarios.c
+	"libreria.h"
+
+1542112330 source:c:\users\arte1\downloads\fuentes viejas\tp-v-3.2-master\pelisxuser.c
+	"libreria.h"
+
+1542121474 source:c:\users\nmz\desktop\tp-v-3.2-master\cargainicial.c
+	"libreria.h"
+
+1542248814 c:\users\nmz\desktop\tp-v-3.2-master\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	<conio.h>
+	<windows.h>
+
+1542121476 source:c:\users\nmz\desktop\tp-v-3.2-master\main.c
+	"libreria.h"
+
+1542248814 source:c:\users\nmz\desktop\tp-v-3.2-master\menues.c
+	"libreria.h"
+
+1542248339 source:c:\users\nmz\desktop\tp-v-3.2-master\peliculas.c
+	"libreria.h"
+
+1542248654 source:c:\users\nmz\desktop\tp-v-3.2-master\pelisxuser.c
+	"libreria.h"
+
+1542247319 source:c:\users\nmz\desktop\tp-v-3.2-master\usuarios.c
+	"libreria.h"
+
